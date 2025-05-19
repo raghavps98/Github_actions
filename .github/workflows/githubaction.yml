@@ -4,5 +4,5 @@ jobs:
   run-shell-job:
     runs-on: ubuntu-latest
     steps:
-      - name:printing hello world
+      - name: printing hello world
         run: echo "hello world"
